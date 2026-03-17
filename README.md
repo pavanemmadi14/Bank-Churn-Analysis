@@ -110,9 +110,9 @@ Identifies which customer segments churn the most and the top contributing risk 
 ```
 bank-churn-dashboard/
 ├── README.md
-├── BankChurnDashboard.pbix        # Main Power BI file
-└── data/
-    └── bank_churn_data.csv        # Source dataset
+├── Bank_Analysis_Dashboard.pbix        # Main Power BI file
+├── Bank_churn_analysis.sql
+└── bank_churn_messy.csv        # Source dataset
 ```
 
 ---
@@ -122,7 +122,7 @@ bank-churn-dashboard/
 - **Power BI Desktop** — dashboard design and visualisation
 - **DAX** — calculated measures (churn rate, retention rate, segment breakdowns)
 - **Power Query** — data transformation and age/balance grouping
-
+- **Sql** — data extraction, filtering, and exploratory querying of the raw customer dataset
 ---
 
 ## How to Use
@@ -145,4 +145,4 @@ bank-churn-dashboard/
 ---
 
 ## Author
-Pavani Emmadi
+Pavan Emmadi
