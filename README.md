@@ -140,8 +140,6 @@ bank-churn-dashboard/
 
 ## Potential Improvements
 
-- Replace gradient background with a flat dark or white theme for a more modern look
-- Swap the Age Group treemap for a horizontal bar chart for clearer label readability
 - Add a drill-through page for individual customer-level detail
 - Include a trend line showing churn rate over time (if date data is available)
 - Add a dedicated Germany deep-dive page given its outsized churn rate
