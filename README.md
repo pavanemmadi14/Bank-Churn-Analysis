@@ -29,6 +29,7 @@ This dashboard helps banking analysts and business stakeholders understand **who
 ---
 
 ## Dashboard Pages
+### Dashboard Link = <a href="https://app.powerbi.com/view?r=eyJrIjoiZGMwODBiOGEtOWVlYi00OWNlLTg3NmQtMjQ0YzE3MjcwOTk1IiwidCI6IjA4ZDA4NzAwLWNjYzktNDZkZC04M2ZlLTViZjQwYzE3ZTNlZiJ9">Click Here</a>
 
 ### Page 1 — Customer Portfolio Overview
 
