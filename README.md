@@ -83,6 +83,9 @@ Identifies which customer segments churn the most and the top contributing risk 
 ---
 
 ## Key Insights
+### Dashboard Preview : <img width="1204" height="719" alt="image" src="https://github.com/user-attachments/assets/cd2e2007-03df-47ce-bbe4-45077798c5a4" />
+
+### <img width="1208" height="730" alt="image" src="https://github.com/user-attachments/assets/00bbe0b7-1db4-4a15-9825-880050aa674f" />
 
 1. **4-product customers churn at 100%** — customers holding 4 products have a 100% churn rate; this warrants urgent investigation
 2. **3-product customers are also very high risk** at 82.7% churn
