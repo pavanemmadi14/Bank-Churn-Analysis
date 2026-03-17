@@ -145,5 +145,4 @@ bank-churn-dashboard/
 ---
 
 ## Author
-
-Created as part of a bank customer retention analytics project.
+Pavani Emmadi
